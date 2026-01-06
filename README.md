@@ -1,6 +1,6 @@
 # Lagos House Price Predictor
 
-**Live App:** [Click here to view the Dashboard](https://share.streamlit.io)
+**Live App:** [Click here to view the Dashboard](https://lagos-house-price.streamlit.app/)
 
 ## Project Overview
 This project is an End-to-End Machine Learning solution that predicts real estate prices in Lagos, Nigeria. 
