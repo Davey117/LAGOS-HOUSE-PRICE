@@ -2,7 +2,7 @@
 
 **Live App:** [Click here to view the Dashboard](https://lagos-house-price.streamlit.app/)
 
-This dataset is now available on kaggle [Click here to view Dataet](https://www.kaggle.com/datasets/ogwucheemmanueld/lagos-house-prices-sales-and-valuation-dataset)
+This dataset is now available on kaggle [Click here to view Dataset](https://www.kaggle.com/datasets/ogwucheemmanueld/lagos-house-prices-sales-and-valuation-dataset)
 
 ## Project Overview
 This project is an End-to-End Machine Learning solution that predicts real estate prices in Lagos, Nigeria. 
